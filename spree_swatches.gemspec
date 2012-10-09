@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.author    = 'Giuseppe Privitera'
   s.email     = 'priviterag@gmail.com'
-  s.homepage  = 'http://www.spreecommerce.com'
+  s.homepage  = 'https://github.com/priviterag/spree_swatches'
 
   s.files       = `git ls-files`.split("\n")
   s.test_files  = `git ls-files -- {test,spec,features}/*`.split("\n")
